@@ -6,6 +6,7 @@ int x;
 
 x = 10 * 10;
 
+printf("hello world ;-)\n");
 printf("value of x is %d",x);
 
 }
